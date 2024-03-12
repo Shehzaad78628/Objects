@@ -6,16 +6,16 @@
       picture: "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg"
     },
     {
-      name: "Jawan",
-        year: 2023,
-        director: "Atlee Kumar",
-        picture: "https://upload.wikimedia.org/wikipedia/en/3/39/Jawan_film_poster.jpg"
+      name: "Spider-Man 2",
+        year: 2004,
+        director: "Sam Raimi",
+        picture: "https://upload.wikimedia.org/wikipedia/en/4/4e/Spider-Man_2_poster.jpg"
     },
     {
-      name: "Ford v Ferrari",
-      year: 2019,
-      director: "James Mangold",
-      picture: "https://upload.wikimedia.org/wikipedia/en/a/a4/Ford_v._Ferrari_%282019_film_poster%29.png"
+      name: "Jawan",
+      year: 2023,
+      director: "Atlee Kumar",
+      picture: "https://upload.wikimedia.org/wikipedia/en/3/39/Jawan_film_poster.jpg"
     }
   ];
   
